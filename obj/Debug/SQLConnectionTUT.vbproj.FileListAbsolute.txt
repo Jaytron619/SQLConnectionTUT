@@ -1,0 +1,16 @@
+D:\JAYprojects\AppDesign\SQLConnectionTUT\bin\Debug\SQLConnectionTUT.exe.config
+D:\JAYprojects\AppDesign\SQLConnectionTUT\bin\Debug\SQLConnectionTUT.exe
+D:\JAYprojects\AppDesign\SQLConnectionTUT\bin\Debug\SQLConnectionTUT.pdb
+D:\JAYprojects\AppDesign\SQLConnectionTUT\bin\Debug\SQLConnectionTUT.xml
+D:\JAYprojects\AppDesign\SQLConnectionTUT\obj\Debug\SQLConnectionTUT.vbprojAssemblyReference.cache
+D:\JAYprojects\AppDesign\SQLConnectionTUT\obj\Debug\SQLConnectionTUT.Form1.resources
+D:\JAYprojects\AppDesign\SQLConnectionTUT\obj\Debug\SQLConnectionTUT.Resources.resources
+D:\JAYprojects\AppDesign\SQLConnectionTUT\obj\Debug\SQLConnectionTUT.vbproj.GenerateResource.cache
+D:\JAYprojects\AppDesign\SQLConnectionTUT\obj\Debug\SQLConnectionTUT.vbproj.CoreCompileInputs.cache
+D:\JAYprojects\AppDesign\SQLConnectionTUT\obj\Debug\SQLConnectionTUT.exe
+D:\JAYprojects\AppDesign\SQLConnectionTUT\obj\Debug\SQLConnectionTUT.xml
+D:\JAYprojects\AppDesign\SQLConnectionTUT\obj\Debug\SQLConnectionTUT.pdb
+D:\JAYprojects\AppDesign\SQLConnectionTUT\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+D:\JAYprojects\AppDesign\SQLConnectionTUT\bin\Debug\MetroFramework.dll
+D:\JAYprojects\AppDesign\SQLConnectionTUT\bin\Debug\MetroFramework.Fonts.dll
+D:\JAYprojects\AppDesign\SQLConnectionTUT\obj\Debug\SQLConnectionTUT.vbproj.CopyComplete
